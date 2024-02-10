@@ -1,0 +1,1 @@
+This folder contains smart contracts for this project
